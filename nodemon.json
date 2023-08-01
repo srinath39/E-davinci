@@ -1,0 +1,8 @@
+{
+    "env":{
+        "DB_USER":"msrinath2580",
+        "DB_PASSWORD":"3FklQnwNV4Ks1TNQ",
+        "DB_NAME":"E-davinci-DB",
+        "JWT_KEY":"supersecret_dont_share"
+    }
+}
